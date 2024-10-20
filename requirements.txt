@@ -3,3 +3,4 @@ matplotlib==3.8.0
 seaborn==0.12.2
 pillow==9.5.0  # Version compatible with Streamlit
 streamlit==1.26.0  # Your specific version
+pip install --upgrade pip
